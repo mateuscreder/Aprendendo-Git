@@ -3,3 +3,5 @@ Olá! Estou aprendendo Git hoje.
 Primeira modificação.
 
 Segunda modificação em uma nova branch chamada staging.
+
+Terceira modificação.
